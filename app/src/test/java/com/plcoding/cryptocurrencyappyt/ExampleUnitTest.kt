@@ -1,4 +1,4 @@
-package com.plcoding.cryptocurrencyapp
+package com.plcoding.cryptocurrencyappyt
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.plcoding.cryptocurrencyapp.ui.theme
+package com.plcoding.cryptocurrencyappyt.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
@@ -22,7 +22,7 @@ private val LightColorPalette = lightColors(
 )
 
 @Composable
-fun CryptocurrencyAppTheme(darkTheme: Boolean = true, content: @Composable() () -> Unit) {
+fun CryptocurrencyAppYTTheme(darkTheme: Boolean = true, content: @Composable() () -> Unit) {
     val colors = if (darkTheme) {
         DarkColorPalette
     } else {
